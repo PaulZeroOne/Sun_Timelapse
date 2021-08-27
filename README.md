@@ -11,3 +11,5 @@ pip install tldextract
 <p align="center">
    <img src="https://gifimage.net/wp-content/uploads/2017/08/sol-gif-15.gif">
   </p>
+ ## Contributors
+ ![Author 1](https://github.com/PaulZeroOne)
