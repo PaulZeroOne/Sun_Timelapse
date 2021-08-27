@@ -14,4 +14,6 @@ pip install tldextract
   
   
  ## Contributors
- ![Author 1](https://github.com/PaulZeroOne)
+ [Author 1](https://github.com/)
+ [Author 2](https://github.com/PaulZeroOne)
+ [Author 3](https://github.com/)
